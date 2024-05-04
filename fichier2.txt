@@ -1,1 +1,2 @@
 Le nom de fichier2
+Et une modification depuis la branche b1
