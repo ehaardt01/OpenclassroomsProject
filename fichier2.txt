@@ -1,2 +1,3 @@
 Et une second modification depuis la branche b1
 Sachant que j'ai supprimé la première ligne
+Encore une 3ème modif
