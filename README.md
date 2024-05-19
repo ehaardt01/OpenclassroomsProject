@@ -1,6 +1,11 @@
 # OpenclassroomsProject
 Repo de test pour les tutos OpenClassRooms
+
+Mon exemple d'inclusion de fichier Mermaid:
+
+
 ![your-UML-diagram-name](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/jonashackt/plantuml-markdown/master/example-uml.iuml)
+
 ```mermaid
 sequenceDiagram
     participant dotcom
